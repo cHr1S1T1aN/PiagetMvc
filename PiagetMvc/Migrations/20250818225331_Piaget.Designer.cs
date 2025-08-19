@@ -12,7 +12,7 @@ using PiagetMvc.Data;
 namespace PiagetMvc.Migrations
 {
     [DbContext(typeof(PiagetMvcContext))]
-    [Migration("20250812003651_Piaget")]
+    [Migration("20250818225331_Piaget")]
     partial class Piaget
     {
         /// <inheritdoc />
